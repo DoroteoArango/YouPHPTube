@@ -8,8 +8,6 @@
   - We provide you a Demo site sample with full access to the admin account. You will need an admin password to upload and manage videos, it is by default. user: admin and pass: 123. Also there is a non admin user and password (Only for comments). user: test and pass: test.
 
 # First thing...
-I would humbly like to thank God for giving me the necessary knowledge, motivation, resources and idea to be able to execute this project. Without God's permission this would never be possible.
-
 THANKS TO DANIEL FOR HIS GREAT WORK!!!
 
 # This Software must be used for Good, never Evil. It is expressly forbidden to use YouPHPTube to build porn sites, violence, racism or anything else that affects human integrity or denigrates the image of anyone.
