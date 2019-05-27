@@ -10,8 +10,7 @@
 # First thing...
 I would humbly like to thank God for giving me the necessary knowledge, motivation, resources and idea to be able to execute this project. Without God's permission this would never be possible.
 
-**For of Him, and through Him, and to Him, are all things: to whom be glory for ever. Amen.**
-`Apostle Paul in Romans 11:36`
+THANKS TO DANIEL FOR HIS GREAT WORK!!!
 
 # This Software must be used for Good, never Evil. It is expressly forbidden to use YouPHPTube to build porn sites, violence, racism or anything else that affects human integrity or denigrates the image of anyone.
 
